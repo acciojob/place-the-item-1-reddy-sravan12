@@ -1,2 +1,12 @@
+.holder{
+	display:flex;
+	justify-content:space-between;
+}
 
+.item{
+	width:100px;
+	height:100px;
+	background-color:green;
+	display:inline-block;
+}
 /* Your CSS Code here. */
